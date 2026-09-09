@@ -36,12 +36,12 @@ Sou proativo, interessado por tecnologia e me incomodo com a monotonia — estou
 ![NestJS](https://img.shields.io/badge/-NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
 
 **DevOps, Metodologias & Outros:**
 
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/-AZURE-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
