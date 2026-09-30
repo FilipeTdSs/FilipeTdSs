@@ -9,7 +9,7 @@ Sou proativo, interessado por tecnologia e me incomodo com a monotonia — estou
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Unisuam** (último período)
-- 💼 Desenvolvedor Full-Stack, atuando com independência e, em alguns casos, auxiliando um dev sênior nos projetos
+- 💼 Desenvolvedor Full-Stack, atuando com independência e em alguns casos, auxiliando um dev sênior nos projetos
 - 📨 Trabalho com **PostgreSQL**, **Redis** e **Docker**
 - 📱 Desenvolvo também um app mobile pessoal com **Ionic/Angular** no front e **NestJS** no back
 - 🔧 Formado em Eletromecânica pela Faetec-RJ, com experiência prévia como líder de equipe antes de migrar para o desenvolvimento web
